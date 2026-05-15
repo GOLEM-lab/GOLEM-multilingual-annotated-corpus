@@ -3,6 +3,7 @@ Main repository for the multilingual GOLEM corpus of manually annotated fanficti
 
 ## GOLEMcoref
 van Cranenburgh et al. 2026. GOLEMcoref multilingual annotated corpus (v0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20058310
+
 https://github.com/GOLEM-lab/GOLEMcoref
 
 ## GOLEMdialogue
